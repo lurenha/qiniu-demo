@@ -12,8 +12,9 @@ SpringBoot整合七牛云使用对象存储的Demo
 ##### 前者会将文件存放在服务器本地 storage 文件夹下
 ##### 后者上传到七牛云服务器 （请在application.yml中自行更改七牛云对象存储配置信息）
 ##### 七牛云配置信息查看
-![配置信息](http://q4nw146g8.bkt.clouddn.com/qiniuapplication.png)
-![配置信息](http://q4nw146g8.bkt.clouddn.com/qiniuapplicationkey.png)
+![配置信息1](http://q4nw146g8.bkt.clouddn.com/qiniuapplication.png)
+
+![配置信息2](http://q4nw146g8.bkt.clouddn.com/qiniuapplicationkey.png)
             
 ------------
 

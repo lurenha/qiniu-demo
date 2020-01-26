@@ -7,10 +7,12 @@ SpringBoot整合七牛云使用对象存储的Demo
 1. 在IntelliJ IDEA中运行本项目，启动项目
 1. 使用PostMan工具 访问http://localhost:8080/admin/create （file为要上传的文件）进行上传文件
 1. 使用PostMan工具 访问http://localhost:8080/admin/delete （key为要删除的文件名）进行删除文件
+
 #### 说明
 1. 可以在配置文件中application.yml中修改文件存储方式 active: local 或者 active: qiniu
 1. 前者会将文件存放在服务器本地 storage 文件夹下
 1. 后者上传到七牛云服务器 （请在application.yml中自行更改七牛云对象存储配置信息）
+
 ##### PostMan相关
 ![配置信息0](http://q4nw146g8.bkt.clouddn.com/postman.png)
 

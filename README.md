@@ -11,7 +11,9 @@ SpringBoot整合七牛云使用对象存储的Demo
 1. 可以在配置文件中application.yml中修改文件存储方式 active: local 或者 active: qiniu
 1. 前者会将文件存放在服务器本地 storage 文件夹下
 1. 后者上传到七牛云服务器 （请在application.yml中自行更改七牛云对象存储配置信息）
-##### 七牛云配置信息查看
+##### PostMan相关
+![配置信息0](http://q4nw146g8.bkt.clouddn.com/postman.png)
+##### 七牛云配置信息相关
 ![配置信息1](http://q4nw146g8.bkt.clouddn.com/qiniuapplication.png)
 
 ![配置信息2](http://q4nw146g8.bkt.clouddn.com/qiniuapplicationkey.png)

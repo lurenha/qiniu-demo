@@ -14,7 +14,7 @@ SpringBoot整合七牛云使用对象存储的Demo
 ##### 七牛云配置信息查看
 ![配置信息](http://q4nw146g8.bkt.clouddn.com/qiniuapplication.png)
 ![配置信息](http://q4nw146g8.bkt.clouddn.com/qiniuapplicationkey.png)
-
+            
 ------------
 
 ### 鸣谢

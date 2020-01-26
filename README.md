@@ -13,7 +13,7 @@ SpringBoot整合七牛云使用对象存储的Demo
 ##### 后者上传到七牛云服务器 （请在application.yml中自行更改七牛云对象存储配置信息）
 ##### 七牛云配置信息查看
 ![配置信息](http://q4nw146g8.bkt.clouddn.com/qiniuapplication.png)
-![配置信息](http://q4nw146g8.bkt.clouddn.com/qiniukey.png)
+![配置信息](http://q4nw146g8.bkt.clouddn.com/qiniuapplicationkey.png)
 
 ------------
 
